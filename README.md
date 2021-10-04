@@ -3,16 +3,19 @@
 
 This project use tailwindcss framework as a css framework with react app.
 
-## Library and Framework lists which use this project
+# Library and Framework lists which use this project
 
-# Tailwind CSS
-# Fontawesome
-# React Router
+## Tailwind CSS
+## Fontawesome
+## React Router
  and many more...
 
-### Features:
+# Features:
 
 ## Course sell
 ## Course buy
 ## Blogs
-## Meet with best chef # review-website-Rakib0101
+## Meet with best chef 
+
+# Live Link
+[https://master-study.netlify.app/](https://master-study.netlify.app/)
