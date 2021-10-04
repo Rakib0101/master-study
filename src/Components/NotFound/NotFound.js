@@ -9,6 +9,9 @@ const NotFound = () => {
                     <button className="primary-bg px-4 py-2 rounded"><Link to="/">Go Home</Link></button>
                 </div>
                 <img src="./images/404.png" alt="" />
+                <div>
+                    <h2 className="text-4xl py-4">Not Found 404</h2>
+                </div>
             </div>
         </div>
     );

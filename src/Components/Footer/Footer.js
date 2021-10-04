@@ -28,8 +28,8 @@ const Footer = () => {
                                     <img className="w-1/2" src="./images/course-1.jpg" alt="" />
                                 </div>
                                 <div>
-                                    <h2>Course Title</h2>
-                                    <h3>Course Instructor</h3>
+                                    <h2>Meat with vegetables</h2>
+                                    <h3 className="text-gray-300">Shakil Sagor</h3>
                                 </div>
                             </li>
                             <li className="flex my-2 items-center">
@@ -37,8 +37,8 @@ const Footer = () => {
                                     <img className="w-1/2" src="./images/course-3.jpg" alt="" />
                                 </div>
                                 <div>
-                                    <h2>Course Title</h2>
-                                    <h3>Course Instructor</h3>
+                                    <h2>Drinks can be fun</h2>
+                                    <h3 className="text-gray-300">Sajib Hasan</h3>
                                 </div>
                             </li>
                             <li className="flex items-center">
@@ -46,8 +46,8 @@ const Footer = () => {
                                     <img className="w-1/2" src="./images/course-6.jpg" alt="" />
                                 </div>
                                 <div>
-                                    <h2>Course Title</h2>
-                                    <h3>Course Instructor</h3>
+                                    <h2>Making Fast Food</h2>
+                                    <h3 className="text-gray-300">Ibnu Mahtab</h3>
                                 </div>
                             </li>
                         </ul>

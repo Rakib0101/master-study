@@ -12,6 +12,9 @@ const Contact = () => {
     const skypeIcon = <FontAwesomeIcon icon={faSkype}></FontAwesomeIcon>
     return (
         <div>
+            <div className="primary-bg py-24">
+                <h2 className="text-6xl text-white">Contact Us</h2>
+            </div>
             <div className="container mx-auto py-16">
                 <div className="flex text-left">
                     <div className="w-1/2 pb-12">

@@ -4,6 +4,9 @@ const Blog = () => {
     return (
         <div>
             <div>
+                <div className="primary-bg py-24">
+                    <h2 className="text-6xl text-white">Blog</h2>
+                </div>
                 <div className="container mx-auto pb-12">
                     <div className="grid grid-cols-7">
                         <div className="col-span-5">
@@ -105,7 +108,7 @@ const Blog = () => {
                             </div>
                         </div>
                         <div className="col-span-2 border-l border-gray-400 text-left pl-4">
-                            <h2 className="text-2xl font-bold">Recent Articles</h2>
+                            <h2 className="text-2xl font-bold pt-12">Recent Articles</h2>
                             <ul className="text-xl">
                                 <li className="flex">
                                     <img className="w-1/4 p-4" src="./images/course-1.jpg" alt="" /><a className="pt-4" href="/">Most selled dishes last year !</a></li>

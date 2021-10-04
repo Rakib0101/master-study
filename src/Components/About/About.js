@@ -3,6 +3,9 @@ import React from 'react';
 const About = () => {
     return (
         <div>
+            <div className="primary-bg py-24">
+                <h2 className="text-6xl text-white">About Us</h2>
+            </div>
             <div className="container mx-auto pt-8">
                 <div className="flex text-left items-center">
                     <div className="w-1/2 pr-8">
