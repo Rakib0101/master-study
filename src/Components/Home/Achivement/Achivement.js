@@ -18,29 +18,29 @@ const Achivement = () => {
                         <div className="primary-bg inline-block text-center h-24 w-24 rounded-full relative ">
                             <span className="absolute text-5xl text-white top-1/4 right-1/4 m-0 -translate-y-1/2">{earthIcon}</span>
                         </div>
-                        <h2 className="text-6xl py-4 font-bold">94532</h2>
-                        <h2 className="text-4xl">Followers</h2>
+                        <h2 className="text-5xl py-4 font-bold">94532</h2>
+                        <h2 className="text-2xl">Followers</h2>
                     </div>
                     <div>
                         <div className="primary-bg inline-block text-center h-24 w-24 rounded-full relative ">
                             <span className="absolute text-5xl text-white top-1/4 right-1/4 m-0 -translate-y-1/2">{bellIcon}</span>
                         </div>
-                        <h2 className="text-6xl py-4 font-bold">223</h2>
-                        <h2 className="text-4xl">Classes Completed</h2>
+                        <h2 className="text-5xl py-4 font-bold">223</h2>
+                        <h2 className="text-2xl">Classes Completed</h2>
                     </div>
                     <div>
                         <div className="primary-bg inline-block text-center h-24 w-24 rounded-full relative ">
                             <span className="absolute text-5xl text-white top-1/4 right-1/4 m-0 -translate-y-1/2">{usersIcon}</span>
                         </div>
-                        <h2 className="text-6xl py-4 font-bold">8267</h2>
-                        <h2 className="text-4xl">Students Enrolled</h2>
+                        <h2 className="text-5xl py-4 font-bold">8267</h2>
+                        <h2 className="text-2xl">Students Enrolled</h2>
                     </div>
                     <div>
                         <div className="primary-bg inline-block text-center h-24 w-24 rounded-full relative ">
                             <span className="absolute text-5xl text-white top-1/4 right-1/4 m-0 -translate-y-1/2">{briefCaseIcon}</span>
                         </div>
-                        <h2 className="text-6xl py-4 font-bold">374</h2>
-                        <h2 className="text-4xl">Certified Teachers</h2>
+                        <h2 className="text-5xl py-4 font-bold">374</h2>
+                        <h2 className="text-2xl">Certified Teachers</h2>
                     </div>
                 </div>
             </div>

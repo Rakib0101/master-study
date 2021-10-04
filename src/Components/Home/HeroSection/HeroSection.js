@@ -1,6 +1,7 @@
 import { faArrowRight } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const HeroSection = () => {
     const arrowIcon = <FontAwesomeIcon icon={faArrowRight}></FontAwesomeIcon>
@@ -13,7 +14,9 @@ const HeroSection = () => {
                                 <h3 className="text-2xl">LEARN TO COOK WITH</h3>
                                 <h1 className="text-9xl font-semibold font-sans">ROBERT</h1>
                                 <h1 className="text-9xl font-semibold pl-48">THEON</h1>
-                                <button className="bg-white mt-4 text-black py-2 px-4 rounded">Learn More {arrowIcon}</button>
+                                <Link to="/courses">
+                                    <button className="bg-white cursor-pointer mt-4 text-black py-2 px-4 rounded">Learn More {arrowIcon}</button>
+                                </Link>
                             </div>
                         </div>
                     </div>

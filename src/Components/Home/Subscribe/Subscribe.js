@@ -11,7 +11,7 @@ const Subscribe = () => {
                 <div className="w-1/2">
                     <h2 className="text-left pl-20 text-white text-2xl pb-4">Write Your E-mail Address</h2>
                     <div className="flex w-3/4 mx-auto">
-                        <input className="w-full py-4 rounded-l-full" type="text" />
+                        <input className="w-full py-4 pl-8 outline-none rounded-l-full" type="text" />
                         <button className="px-4 text-white bg-gray-700 rounded-r-full">Subscribe</button>
                     </div>
                 </div>

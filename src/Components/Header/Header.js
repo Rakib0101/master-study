@@ -1,16 +1,21 @@
 import { faSignOutAlt } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
-import { NavLink } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 
 const Header = () => {
     const loginIcon = <FontAwesomeIcon icon={faSignOutAlt}></FontAwesomeIcon>
     return (
         <div>
+            <div className="bg-gray-700 text-white py-2">
+                <p>Get <span className="text-red-600 font-bold text-xl">25%</span> discount in whole october month for all courses</p>
+            </div>
             <div className="container mx-auto">
                 <div className="main-nav flex justify-between py-4">
                     <div className="logo-area">
-                        <img src="./images/logo.svg" alt="" />
+                        <Link to="/">
+                            <img src="./images/logo.svg" alt="" /> 
+                        </Link>
                     </div>
                     <div className="nav-area">
                         <ul className="flex justify-end items-center text-bold text-xl">
