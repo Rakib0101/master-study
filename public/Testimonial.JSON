@@ -1,0 +1,42 @@
+[
+    {
+        "key": "client01",
+        "name": "General Developer, Stylemix Themes",
+        "img": "https://stylemixthemes.com/masterstudy/cooking-courses/wp-content/uploads/sites/20/2018/07/testimonial@3x-69x69.png",
+        "position": "Professional skaters association",
+        "comments": "MasterStudy used is an excellent workshop whether you come as a counselor, advisor, administrator, or faculty member. I am going home empowered."
+
+    },
+    {
+        "key": "client02",
+        "name": "Paints of the Future",
+        "img": "https://stylemixthemes.com/masterstudy/cooking-courses/wp-content/themes/masterstudy-child/assets/images/avatars/george-clinton.jpg",
+        "position": "SEO, Froust Inc",
+        "comments": "The response to your MasterStudy has been really overwhelming! Those who participated in the workshop are spreading the word here on campus and the “buzz” is on."
+
+    },
+    {
+        "key": "client03",
+        "name": "Investing for Your Future",
+        "img": "https://stylemixthemes.com/masterstudy/cooking-courses/wp-content/themes/masterstudy-child/assets/images/avatars/george-clinton.jpg",
+        "position": "Product Manager, Apple Inc",
+        "comments": "It is no exaggeration to say this MasterStudy experience was transformative–both professionally and personally. This workshop will long remain a high point of my life."
+
+    },
+    {
+        "key": "client04",
+        "name": "General Developer, Stylemix Themes",
+        "img": "https://stylemixthemes.com/masterstudy/cooking-courses/wp-content/uploads/sites/20/2018/07/testimonial@3x-69x69.png",
+        "position": "Professional skaters association",
+        "comments": "MasterStudy used is an excellent workshop whether you come as a counselor, advisor, administrator, or faculty member. I am going home empowered."
+
+    },
+    {
+        "key": "client05",
+        "name": "General Developer, Stylemix Themes",
+        "img": "https://stylemixthemes.com/masterstudy/cooking-courses/wp-content/uploads/sites/20/2018/07/testimonial@3x-69x69.png",
+        "position": "Professional skaters association",
+        "comments": "MasterStudy used is an excellent workshop whether you come as a counselor, advisor, administrator, or faculty member. I am going home empowered."
+
+    }
+]
